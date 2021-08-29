@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c78eb5c6-ffbc-4388-a773-b79083b8c128" name="Changes" comment="" />
+    <list default="true" id="c78eb5c6-ffbc-4388-a773-b79083b8c128" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/measurements/logic/logic_measurements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/measurements/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TallerDjango-Vistas-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TallerDjango-Vistas-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/measurements/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/measurements/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitoring/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/monitoring/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1xNculWkS64tqkauM3JeYZSZ1N9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../env" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -65,10 +76,24 @@
       <workItem from="1630199212920" duration="5169000" />
       <workItem from="1630212974368" duration="1289000" />
       <workItem from="1630261419963" duration="2223000" />
+      <workItem from="1630265711086" duration="808000" />
+      <workItem from="1630274210055" duration="115000" />
+      <workItem from="1630274341740" duration="1219000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
